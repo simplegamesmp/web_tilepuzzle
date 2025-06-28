@@ -2,11 +2,16 @@ body{
 
     padding :0;
     margin :0;
-    background-color:black;
+    background-color:#000000;
     position: absolute;
     top: 0;
     left: 0;
     overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select:none;
+    user-select:none;
+    -webkit-touch-callout:none;
+    -ms-user-select:none;
 }
 html, body {
     height: 100%;
@@ -22,7 +27,6 @@ html, body {
 	position:fixed;
 	top:0px;
 	left:0px;
-	background-color:black;
 	background-image:url(../assets/img/orientation.png);
 	background-repeat:no-repeat;
     
