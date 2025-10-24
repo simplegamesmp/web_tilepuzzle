@@ -57,4 +57,5 @@ html, body {
 	display:none;
 
 	backdrop-filter: blur(10px);
+    pointer-events: none;
 }
