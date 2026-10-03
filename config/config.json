@@ -2,34 +2,34 @@
   "companies": [
     {
       "id": 1,
-      "levelsCount": 1250,
+      "levelsCount": 1275,
       "dynamicDifficult":true
     },
     {
       "id": 11,
-      "levelsCount": 90,
+      "levelsCount": 92,
       "dynamicDifficult":false
     },
     {
       "id": 12,
-      "levelsCount": 90,
+      "levelsCount": 92,
       "dynamicDifficult":false
     },
       {
       "id": 13,
-      "levelsCount": 90,
+      "levelsCount": 92,
       "dynamicDifficult":false
     },
     {
       "id": 14,
-      "levelsCount": 90,
+      "levelsCount": 92,
       "dynamicDifficult":false
     },
     {
       "id": 15,
-      "levelsCount": 90,
+      "levelsCount": 92,
       "dynamicDifficult":false
     }
   ],
-    "collectionsCount":70
+    "collectionsCount":72
 }
